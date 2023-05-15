@@ -1,5 +1,5 @@
 //Number Guessing Game in Java Swing
-//Also posted at
+
 
 import javax.swing.*;
 import java.awt.*;
